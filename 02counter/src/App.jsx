@@ -17,7 +17,7 @@ function App() {
     if(0 < counter){
       setCounter(counter - 1)
     }
-  }
+  } 
   return (
     <>
       <h1>Chai Aur React</h1>
